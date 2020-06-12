@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: #101830;
+    position: relative;
+
+}
+.bg-desktop{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.fylo-cont{
+    width: 350px;
+    height: 140px;
+    background-color: #1F2C6A;
+    position: relative;
+    top: 450px;
+    left: 230px;
+    border-radius: 10px;
+    border-top-right-radius: 100px;
+    padding: 40px;
+}
+.icons{
+    background-color: #11192F;
+    display: inline-block;
+    margin: 10px;
+    height: 25px;
+    width: 25px;
+    float: left;
+    border-radius: 9px;
+}
+.file{
+    padding: 11px 10px 12px 13px;
+}
+.dossier{
+    padding: 13px 12px 10px 13px;
+}
+.cloud{
+    padding: 16px 12px 9px 13px;
+}
+.fylo{
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+.storage{
+    background-color: #1F2C6A;
+    width: 600px;
+    height: 150px;
+    position: relative;
+    left: 690px;
+    top: 285px;
+    border-radius: 10px;
+}
+.progress{
+    width: 500px;
+    height: 20px;
+    background-color:#101830 ;
+    position: absolute;
+    bottom: 60px;
+    left: 45px;
+    border-radius: 10px;
+}
+.inside{
+    width: 400px;
+    height: 20px;
+    background-color: #FF6B96;
+    border-radius: 10px;
+}
+.circle{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 380px;
+}
+p{
+    color: white;
+    
+}
+.used{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.start{
+    position: relative;
+    left: 40px;
+    top: 34px;
+
+}
+.end{
+    position: relative;
+    top: 0px;
+    left: 490px;
+
+}
+.rectongle{
+    width: 130px;
+    height: 60px;
+    background-color: white;
+    border-radius: 10px;
+    border-bottom-right-radius: 0;
+    position: relative;
+    top: 100px;
+    left: 1100px;
+}
+.rectongle p{
+    color: #11192F;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-weight: 300;
+}
+
